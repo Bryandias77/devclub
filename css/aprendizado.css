@@ -1,0 +1,45 @@
+* { 
+    background: rgb(122, 97, 97);
+}
+
+#titulo {
+    color: green;
+    font-size: 20px;
+
+}
+
+#paragrafo {
+    border-color: rgb(86, 179, 223);
+}
+
+.botao {
+    font-weight: 30px;
+}
+
+h1 {
+    color: aqua;
+}
+
+p {
+    color: rgb(63, 206, 170);
+    font-size: 19px;
+}
+
+button {
+    background: blue;
+    border-color: red;
+}
+
+.vo {}
+
+.pai {
+    width: 50vw;
+    height: 50vh;
+    background: blue;
+}
+
+.filho {
+    width: 50%;
+    height: 50%;
+    background: red;
+}

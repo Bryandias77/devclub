@@ -1,0 +1,46 @@
+/* 
+Positions
+
+STATIC é o padrao ele fica parado 
+sempre o max pra cima e esquerda
+n pode mexer no top right botton e left
+
+FIXED fixa o elemento a tela como se fosse um adesivo
+
+STICKY uma mistura de static e fixed
+como um adesivo, ate ele chegar a onde eu determinar 
+ele fica fixo
+
+RELATIVE move de acordo com a posição q ele iniciou
+
+ABSOLUTE funciona como um relative mas faz o elemento flutuar
+se o elemento pai for static / ou n tiver pai
+se referencia a pagina
+se o elemento pai n for static se referencia ao pai
+*/
+
+
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw;
+}
+
+.div-dad {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(255, 0, 200);
+}
+
+.div-son {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(247, 252, 0);
+}

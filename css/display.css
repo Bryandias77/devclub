@@ -1,0 +1,32 @@
+.box {
+    background: rgb(243, 30, 215);
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.box-2 {
+    background: yellow;
+}
+
+.box-3 {
+    background: blue;
+}
+
+/*
+
+block
+ocupa 100% da linha
+pode mexer em altura largura e margem
+
+inline
+ficam em linha
+n pode mexer na altura e largura
+margem top e bottom n pode ser alterado
+
+inline block
+ficam em linha mas se comportam como block
+ou seja pode mexer na altura largura e margem
+
+*/

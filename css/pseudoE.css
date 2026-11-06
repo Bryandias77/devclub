@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    border: 1px solid red;
+    color: rgb(179, 67, 67);
+}
+
+input::placeholder {
+    color: pink;
+}
+
+p {
+    color: blue;
+}
+
+p::first-line {
+    color: yellow;
+}
+
+a {
+    height: 90px;
+    width: 10px;
+    line-height: 90px;
+}
+
+a::after {
+    content: "🚗";
+}
+
+a::before {
+    content:"🚗";
+}

@@ -1,0 +1,24 @@
+/*
+a:pseudo classe {}
+
+active qmd o elemento ta sendo pressionado
+visited seleciona o link q foi visitado
+hover qnd o mouse passa por cima
+checked usado em radio checkbox e select
+disabled pode desabilitar o input ou buttom
+enabled elemento esta habilitado
+focus qnd vc da foco para o elemento
+read-only somente leitua, n é possivel editar
+empty qnd o elemento está vazio, usado em div
+
+
+
+first-child utiliza o primeiro elemento
+first of type usa o primeiro do seu titulo
+last child utiliza o ultimo elemento
+last of type usa o ultimo elemento do seu tipo
+not() estiliza td menos oq estiver entre ()
+nth child() seleciona o elemento baseado na sua posição
+nth last child mesma coisa soq de tras pra frente
+*/
+ 
