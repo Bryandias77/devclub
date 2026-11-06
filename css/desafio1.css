@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    margin: 40px 0 70px 49px;
+}
+
+.link-header { 
+    font-weight: 400;
+    font-size: 25px;
+    margin-right: 20px;
+    line-height: 75px;
+    cursor: pointer;
+   background: #273b68;
+}
+
+.buttom-header {
+    border-radius: 20.5;
+    background: rgb(100, 31, 31);
+    height: 35px;
+    width: 140px;
+    font-weight: 400;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.logo-img {
+    width: 595px;
+    height: 500px;
+    margin-left: 120px;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+h1 {
+   font-size: 72px;
+   font-weight: 700;
+   line-height: 82px;
+   color: #273b68;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    width: 500px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.buttom-main {
+    border-radius: 25;
+    background: #273b68;
+    height: 45px;
+    width: 100px;
+    font-weight: 600;
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    margin: 300px 0 70px 60px;
+    height: 77px;
+    width: 77px;
+}
+
+.logo-insta {
+    height: 77px;
+    margin-right: 45px;
+    border-radius: 20,5px;
+    width: 77px;
+}
+
+.logo-uber {
+    height: 77px;
+    border-radius: 20,5px;
+}
